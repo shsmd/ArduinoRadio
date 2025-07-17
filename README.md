@@ -1,7 +1,7 @@
 # ArduinoRadioClock
 Arduino project on constructing a radio
 
-Implemented a 2.8' TFT Adafruit Touchscreen with a RTC clock as well as IR remote to tune to different radio channels or change volume wirelessly
+Implemented a 2.8' TFT Adafruit Touchscreen with a RTC clock as well as IR remote to tune to different radio channels or change volume wirelessly. If you lose the remote you can use the touchscreen to change radio channels or control volume too
 
 You can build your own audio amplifier to have better control on what you want such as bass/acoustic/stereo etc 
 
@@ -10,7 +10,7 @@ To do this, think about using:
 - tone control(bandpass filter)
 - bridge amplifier
 
-(I used an off the shelf speaker module for ease)
+Or use an off-the-shelf module, i'll link one below which i have used many times before and works well
 
 Products Used
 - **9V DC Battery**
