@@ -12,6 +12,8 @@ To do this, think about using:
 
 Or use an off-the-shelf module, i'll link one below which i have used many times before and works well
 
+The .h or .cpp files are not my own files but you will need to include them when verifying and compiling the code in the IDE
+
 Products Used
 - **9V DC Battery**
 - [Arduino Nano](https://store.arduino.cc/products/arduino-nano)
